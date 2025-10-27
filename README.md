@@ -10,6 +10,11 @@ This document includes example files and instructions on how to run the `hello.s
 - tag releases
 - Using `.gitignore`
 
+## Repository contents
+- `README.md` — this guide
+- `hello.sh` — a simple Bash script that prints “Hello, World!”
+- `.gitignore` — ignores common OS/editor junk and temp/log files
+
 ## How to run (Ubuntu/Linux)
 ```bash
 chmod +x hello.sh
